@@ -1,0 +1,28 @@
+
+spk_0: Thank you for calling Martha's Florist. How may I assist you? 
+spk_1: Hello, I'd like to order flowers and I think you have what I'm looking for. 
+spk_0: I'd be happy to take care of your order. May I have your name 
+spk_1: please? Randall Thomas. 
+spk_0: Randall Thomas, can you spell that for me? 
+spk_1: Randall, R A N D A L L Thomas T H O M A N. 
+spk_0: Thank you for that information, Randall. May I have your home or office number area code first? 
+spk_1: Area code 409 5866. 5088. 
+spk_0: That's 409-866-5088. Do you have a fax number or email address? 
+spk_1: My email is randall.thomas@gmail.com. 
+spk_0: Randall.Thomas@gmail.com. May I have your shipping address? 
+spk_1: 6800. 
+spk_0: OK. 
+spk_1: Maddis Avenue, Beaumont, Texas, zip code is 77706. 
+spk_0: Gladys Avenue, Beaumont, Texas, zip code 77706. Thank you for the information. What products were you interested in purchasing? 
+spk_1: Red roses probably a dozen. 
+spk_0: One dozen of red roses. Do you want long stems? 
+spk_1: Yeah sure. 
+spk_0: All right, Randall, let me process the order. One moment please. 
+spk_1: OK. 
+spk_0: Randall, you're ordering 1 dozen long stand red roses. The total amount of your order is $40 and it will be shipped to your address within 24 hours. 
+spk_1: How soon can you deliver my roses again? 
+spk_0: Within 24 hours. OK, 
+spk_1: no problem. 
+spk_0: Is there anything else I can help you with? 
+spk_1: Uh, that's all for now, thanks. 
+spk_0: No problem, Randall, thank you for calling Martha's Flors have a nice day. 
